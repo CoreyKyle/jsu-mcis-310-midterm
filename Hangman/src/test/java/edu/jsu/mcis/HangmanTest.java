@@ -17,6 +17,7 @@ public class HangmanTest {
             assertTrue(h.available(allLetters.charAt(i)));
         }
     }
+//Test li
 
     // Exam Question 2
     // Implement the Hangman available() method to make this 
